@@ -28,7 +28,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "stylus": "~0.32.1",
+    "stylus": "git://github.com/shanejonas/stylus.git#0.30.1-sourcemaps",
     "nib": "~0.9.0"
   },
   "devDependencies": {
